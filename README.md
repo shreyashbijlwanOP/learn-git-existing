@@ -13,3 +13,8 @@
  6. The use ``` git branch -M main ```
 
  7. then push your code using command ``` git push -u origin main ```  
+
+ # adding new Branch 
+
+ 1. To add new branch use command ``` git checkout -b nameOfBranch ```
+ 2. then push the branch to github via this command ``` git push -u origin nameOfBranch```
