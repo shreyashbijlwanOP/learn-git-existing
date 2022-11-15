@@ -18,3 +18,7 @@
 
  1. To add new branch use command ``` git checkout -b nameOfBranch ```
  2. then push the branch to github via this command ``` git push -u origin nameOfBranch```
+ 3. after pushing the branch we delete the branch for this you first checkout form that branch and then 
+    use command ``` git -d nameOfBranch
+ 4. to pull updates use command  ``` git pull origin nameOfBranch ```
+ 5. you can create new brach or work with same branch
